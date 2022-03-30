@@ -22,6 +22,5 @@ func GetMySQLConnectionString() string {
 		DBHost,
 		DBPort,
 		DBName)
-
 	return dataBase
 }
